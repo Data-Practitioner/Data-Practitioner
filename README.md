@@ -1,3 +1,5 @@
+# Hello, I'm Mihir Kamdar (Data Practitioner)! 
+
 # 💫 About Me:
 🔭 I’m always looking for ways to improve my skills.<br>👯 I’m looking to collaborate on data-driven projects.<br>🌱 I’m always learning new tools or technologies.<br>📫 Get in touch via email: mkamdards@gmail.com<br>🌐 Visit my website: https://datapractitioner.io/<br>💬 Ask me about data, technology, and world affairs.<br>⚡ Fun fact: I am an avid traveler and hope to see the world one day. 
 
